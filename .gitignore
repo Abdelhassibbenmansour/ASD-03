@@ -1,0 +1,5 @@
+# Executable File 
+*.exe
+
+# VS Code Settings
+.vscode/
